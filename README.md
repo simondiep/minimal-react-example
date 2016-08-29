@@ -2,14 +2,14 @@
 
 No server, no build, just React on your browser.
 
-# Demo
+# Try it locally
 
 Start up an http server and navigate to index.html
 
 With Node:
-1. npm install http-server
-2. node node_modules/http-server/bin/http-server
-3. Open a browser to localhost:8080 
+- `npm install http-server`
+- `node node_modules/http-server/bin/http-server`
+- Open a browser to `localhost:8080`
 
 # Notes
 
