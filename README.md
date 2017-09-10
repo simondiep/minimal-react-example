@@ -15,3 +15,4 @@ With Node:
 
 As this is a basic React example, all dependencies (babel, react) are specified in the index.html
 Module loading is not present for simplicity. React and defined components are shared on the window Object.
+As of Sept 10 2017, there is not yet support for import/require for babel-standalone.  Use create-react-app if you will be using dependencies.
